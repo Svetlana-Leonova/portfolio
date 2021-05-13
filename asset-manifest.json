@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/https/svetlana-leonova.github.io/portfolio/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/https/svetlana-leonova.github.io/portfolio/static/js/main.cd8d4763.chunk.js",
+    "main.js.map": "/https/svetlana-leonova.github.io/portfolio/static/js/main.cd8d4763.chunk.js.map",
+    "runtime-main.js": "/https/svetlana-leonova.github.io/portfolio/static/js/runtime-main.85b0a470.js",
+    "runtime-main.js.map": "/https/svetlana-leonova.github.io/portfolio/static/js/runtime-main.85b0a470.js.map",
+    "static/js/2.a2b9b291.chunk.js": "/https/svetlana-leonova.github.io/portfolio/static/js/2.a2b9b291.chunk.js",
+    "static/js/2.a2b9b291.chunk.js.map": "/https/svetlana-leonova.github.io/portfolio/static/js/2.a2b9b291.chunk.js.map",
+    "static/js/3.236fcb0e.chunk.js": "/https/svetlana-leonova.github.io/portfolio/static/js/3.236fcb0e.chunk.js",
+    "static/js/3.236fcb0e.chunk.js.map": "/https/svetlana-leonova.github.io/portfolio/static/js/3.236fcb0e.chunk.js.map",
+    "index.html": "/https/svetlana-leonova.github.io/portfolio/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/https/svetlana-leonova.github.io/portfolio/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.a2b9b291.chunk.js.LICENSE.txt": "/https/svetlana-leonova.github.io/portfolio/static/js/2.a2b9b291.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/https/svetlana-leonova.github.io/portfolio/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85b0a470.js",
+    "static/js/2.a2b9b291.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.cd8d4763.chunk.js"
+  ]
+}
